@@ -1,0 +1,17 @@
+#itemBox{
+  width:25%;
+  height:200px;
+  border:1px solid #000;
+  overflow-y:scroll;
+}
+.contents{
+  float:left;
+}
+.sentence{
+  float:right;
+}
+.clearfix::after{
+   content: "";
+   clear: both;
+   display: block;
+}

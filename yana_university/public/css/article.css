@@ -1,0 +1,9 @@
+.article-item{
+  color:rgba(250,10,50,0.9);
+  padding:20px 0;
+  border-bottom:1px solid rgba(200,100,150,0.8);
+}
+.article-title{
+  font-weight:bold;
+  size:1.2rem;
+}

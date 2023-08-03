@@ -1,0 +1,61 @@
+@media screen and (min-width:768px){
+  .explanations{
+    padding-bottom:30px;
+  }
+  .clearfix:after{
+  	content: "";
+  	clear: both;
+  	display: block;
+  }
+  .contents{
+    margin-top:30px;
+    width:100%;
+  }
+  span{
+    color:red;
+    font-weight:bold;
+  }
+  .content a{
+    display:inline-block;
+    width:100%;
+  }
+  .content img{
+    width:100%;
+  }
+  .content{
+    padding-top:10px;
+    float:left;
+    width:18%;
+    margin-right:20px;
+  }
+
+}
+
+@media screen and (max-width:768px){
+  .explanations{
+    padding-bottom:30px;
+  }
+  span{
+    color:red;
+    font-weight:bold;
+  }
+  .contents{
+    padding-top:30px;
+  }
+  .content{
+    width:100%;
+  }
+  .content a{
+    display:inline-block;
+    max-width:200px;
+    width:100%;
+  }
+  .content img{
+    width:100%;
+  }
+}
+
+.submitInfomation table{
+  background-color:rgba(100,200,250,0.9);
+  color:whitesmoke;
+}
