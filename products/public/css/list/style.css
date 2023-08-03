@@ -1,0 +1,18 @@
+#products{
+    border:3px rgba(200,200,200,0.8) solid;
+}
+#signUp{
+    background-color:rgba(247, 142, 13, 0.7);
+}
+#detaile{
+    background-color:rgba(0,200,200,0.8);
+}
+#destroy{
+    background-color:rgba(200,0,0,0.8);
+}
+.detaile{
+    display:inline;
+}
+.destroy{
+    display:inline;
+}

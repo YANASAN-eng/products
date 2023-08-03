@@ -1,0 +1,10 @@
+#edit{
+  background-color:rgba(0,200,200,0.8);
+}
+#backBtn{
+  background-color:rgba(200,0,0,0.8);
+}
+.form_wrapper{
+  width:fit-content;
+  border:3px rgba(200,200,200,0.8) solid;
+}
